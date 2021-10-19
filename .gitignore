@@ -1,0 +1,6 @@
+dist
+paket-files
+bin
+obj
+.fake
+.ionide

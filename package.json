@@ -1,0 +1,12 @@
+{
+  "name": "fable-node-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/App.js",
+  "type": "module",
+  "scripts": {
+    "dev": "mkdir -p dist && dotnet fable clean --yes --outDir dist && dotnet fable watch src --outDir dist --runWatch node dist/App.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

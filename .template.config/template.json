@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Sean Scally",
+  "classifications": [
+    "F#",
+    "fable",
+    "node"
+  ],
+  "identity": "scally.fable.node",
+  "name": "Fable Node Template",
+  "shortName": "fable-node",
+  "sourceName": "fable-node-template"
+}
